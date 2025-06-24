@@ -1,20 +1,5 @@
 # 👋 Hi, I'm Laith Griltli
 
-🎓 First-year ICT engineering student at **SUP'COM**  
-💡 Passionate about **Cybersecurity** and **Web Development**  
-🚀 Learning every day and building small projects to grow my skills  
-💻 Enjoy solving CTFs, exploring tools, and diving into backend development
-
----
-
-## 📚 What I'm Learning
-
-- 🐍 Python for scripting and automation
-- 💻 C++ for systems and algorithmic thinking
-- 🌐 JavaScript & Node.js for backend development
-- 🔐 Basics of cybersecurity & ethical hacking
-- 🗃️ MongoDB & Express for building REST/GraphQL APIs
-
 ---
 
 ## 🛠️ Tech & Tools I Use

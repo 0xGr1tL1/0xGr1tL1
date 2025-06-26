@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Laith Griltli
+# 👋 Hi, I'm Laith Gritli
 
 ---
 

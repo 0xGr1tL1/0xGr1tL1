@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 55hN1nj4
+# 👋 Hi, I'm RektX
 
 ---
 

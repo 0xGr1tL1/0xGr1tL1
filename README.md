@@ -1,4 +1,4 @@
-# 👋 Hi, I'm RektX
+# 👋 Hi, I'm R3ktX
 
 ---
 

@@ -42,7 +42,3 @@
 - 🕵️ **Goal:** Become a Red Team expert & build secure applications  
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Hack-Repeat-ff4757?style=for-the-badge&logo=hackaday&logoColor=white" />
-</p>

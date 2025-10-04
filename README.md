@@ -65,18 +65,4 @@
 
 ---
 
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="[https://linkedin.com/in/laithgritli](https://www.linkedin.com/in/laithgritli/)" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="[https://twitter.com/yourhandle](https://x.com/r00t_L)" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
 > 🧠 “The quieter you become, the more you are able to hear.” — Ram Dass  
